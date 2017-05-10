@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Least Secure Login</title>
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	    <link rel="stylesheet" type="text/css" href="hash.css" />
+  </head>
+  <body>
+      <div class="string">
+        <div class="back"><a href="index.html"><- Back</a></div>
+      </div>
+      <div id="input">
+        <div class="back"><a href="index.html"><- Back</a></div>
+        <h1>Login</h1>
+        <form id="hash">
+          <input type="text" class="username" name="username" placeholder="Enter Username"></input>
+          <input type="password" class="pass" name="password" placeholder="Password"></input>
+          <input type="password" class="pass_new" name="pass_new" placeholder="New Password"></input>
+          <input type="password" class="pass_confirm" name="pass_confirm" placeholder="Confirm New Password"></input>
+          <button type="submit" class="submit" name="submit">Submit</button>
+        </form>
+        <p class="echo"></p>
+        <div id="links">
+          <div><a href="index.html?view=create">Create User</a></div>
+          <div><a href="index.html?view=change">Change Pwd</a></div>
+          <div><a href="index.html?view=show">Show Users</a></div>
+        </div>
+      </div>
+    <script src="hash.js"></script>
+  </body>
+</html>

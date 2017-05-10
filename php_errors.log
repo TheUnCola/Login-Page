@@ -1,0 +1,25 @@
+[01-Mar-2017 17:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/class07/hash/api/hash.php on line 93
+[01-Mar-2017 17:46:40 UTC] PHP Stack trace:
+[01-Mar-2017 17:46:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/class07/hash/api/hash.php:0
+[01-Mar-2017 17:46:40 UTC] PHP   2. getUser() /home/ubuntu/workspace/class07/hash/api/hash.php:39
+[01-Mar-2017 17:46:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/class07/hash/api/hash.php on line 93
+[01-Mar-2017 17:46:50 UTC] PHP Stack trace:
+[01-Mar-2017 17:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/class07/hash/api/hash.php:0
+[01-Mar-2017 17:46:50 UTC] PHP   2. getUser() /home/ubuntu/workspace/class07/hash/api/hash.php:39
+[01-Mar-2017 17:46:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/class07/hash/api/hash.php on line 93
+[01-Mar-2017 17:46:56 UTC] PHP Stack trace:
+[01-Mar-2017 17:46:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/class07/hash/api/hash.php:0
+[01-Mar-2017 17:46:56 UTC] PHP   2. getUser() /home/ubuntu/workspace/class07/hash/api/hash.php:39
+[01-Mar-2017 18:46:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/class07/hash/api/hash.php on line 14
+[01-Mar-2017 18:46:33 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/ubuntu/workspace/class07/hash/api/hash.php on line 14
+[01-Mar-2017 18:46:42 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/ubuntu/workspace/class07/hash/api/hash.php on line 14
+[01-Mar-2017 21:58:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/class07/hash/api/hash.php on line 79
+[01-Mar-2017 22:00:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/class07/hash/api/hash.php on line 79
+[01-Mar-2017 22:02:53 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/class07/hash/api/hash.php on line 20
+[01-Mar-2017 22:02:53 UTC] PHP Stack trace:
+[01-Mar-2017 22:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/class07/hash/api/hash.php:0
+[01-Mar-2017 22:02:53 UTC] PHP   2. getPerformance() /home/ubuntu/workspace/class07/hash/api/hash.php:82
+[01-Mar-2017 22:04:51 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/class07/hash/api/hash.php on line 20
+[01-Mar-2017 22:04:51 UTC] PHP Stack trace:
+[01-Mar-2017 22:04:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/class07/hash/api/hash.php:0
+[01-Mar-2017 22:04:51 UTC] PHP   2. getPerformance() /home/ubuntu/workspace/class07/hash/api/hash.php:82
